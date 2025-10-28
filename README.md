@@ -2,9 +2,11 @@ A montagem do semáforo foi feita utilizando jumpers "macho-macho" e "macho-fêm
 
 Tabela dos componentes utilizados;
 
-Jumpers "macho-macho" --> 7
-Jumpers "macho-fêmea" --> 6
-Resistores --> 3
-LEDs --> 3
-Arduino UNO
-Protoboard
+- Jumpers "macho-macho" --> 7
+- Jumpers "macho-fêmea" --> 6
+- Resistores --> 3
+- LEDs --> 3
+- Arduino UNO
+- Protoboard
+
+Vídeo funcionando: https://youtube.com/shorts/jn5fnhAAW5c?feature=share
